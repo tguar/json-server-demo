@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "userId": "b76bfbd3-58c4-47e6-8c92-51cca23bc2fc",
+      "tasks" :
+      [
+        {
+          "taskId": "c39a2264-3a48-460e-bab8-43d582e85cd4",
+          "title": "Journal",
+          "userWeight": 75,
+          "computedWeight": 75,
+          "isDeferred": true,
+          "repeatFloor": 1,
+          "repeatCeiling": 2,
+          "lastCompletedDt": "2000-01-01T07:00:00.000Z",
+          "lastDeferredDt": "2000-01-01T07:00:00.000Z",
+          "deferredUntilDt": "2022-01-13T01:12:40.208Z",
+          "createdAt": "2022-01-14T03:20:36.497Z",
+          "updatedAt": "2022-01-14T03:20:36.497Z",
+          "deletedAt": null
+        }
+      ]
+    }
+  ]
+}
